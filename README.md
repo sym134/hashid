@@ -1,3 +1,5 @@
+# 申明原版https://github.com/jiaxincui/hashid
+
 ## 介绍
 一个对Laravel应用模型ID进行对称加密的辅助函数。
   
