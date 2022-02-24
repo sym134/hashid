@@ -1,17 +1,17 @@
 {
-    "name": "jiaxincui/hashid",
+    "name": "sym134/hashid",
     "type": "library",
     "description": "Laravel ID Encrypt Helper",
     "keywords": ["laravel", "encrypt", "helper", "hashid"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Jiaxin Cui",
-            "email": "jenkincei@hotmail.com"
+            "name": "miao hei",
+            "email": "symok@qq.com@qq.com"
         }
     ],
     "require": {
-        "php": ">=5.6.0",
+        "php": ">=7.2",
         "hashids/hashids": "^4.1.0"
     },
     "autoload": {
